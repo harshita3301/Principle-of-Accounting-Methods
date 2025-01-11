@@ -3,7 +3,7 @@
 ### Module I: Introduction to Accounting
 
 #### **1. Nature and Meaning of Accounting**
-
+       
 - **Definition**: Accounting is the systematic process of identifying, measuring, recording, classifying, summarizing, analyzing, and communicating financial information about an entity to various users for decision-making purposes.
 - **Objectives of Accounting**:
   - **Systematic Recording of Transactions**: Ensures that all financial transactions are recorded in a consistent manner.
